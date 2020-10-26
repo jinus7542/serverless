@@ -1,0 +1,10 @@
+{
+  "callbackWaitsForEmptyEventLoop": true,
+  "functionVersion": "$LATEST",
+  "functionName": "chat-dev-connect",
+  "memoryLimitInMB": "1024",
+  "logGroupName": "/aws/lambda/chat-dev-connect",
+  "logStreamName": "2020/10/26/[$LATEST]8fd95dc529b54c56965a6185472a6b83",
+  "invokedFunctionArn": "arn:aws:lambda:ap-northeast-2:193277365573:function:chat-dev-connect",
+  "awsRequestId": "b12470ab-8d36-44f1-9d59-c4857dc5f754"
+}

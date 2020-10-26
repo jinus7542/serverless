@@ -1,0 +1,10 @@
+{
+  "callbackWaitsForEmptyEventLoop": false,
+  "functionVersion": "$LATEST",
+  "functionName": "example5-dev-graphql",
+  "memoryLimitInMB": "1024",
+  "logGroupName": "/aws/lambda/example5-dev-graphql",
+  "logStreamName": "2020/10/21/[$LATEST]d43a0caa89b6449ea4809ece444f0178",
+  "invokedFunctionArn": "arn:aws:lambda:ap-northeast-2:193277365573:function:example5-dev-graphql",
+  "awsRequestId": "916d8aed-8dc0-4ba8-ad48-edd2e648042f"
+}

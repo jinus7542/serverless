@@ -1,0 +1,12 @@
+{
+  "context": {
+    "callbackWaitsForEmptyEventLoop": true,
+    "functionVersion": "$LATEST",
+    "functionName": "chat-dev-index",
+    "memoryLimitInMB": "1024",
+    "logGroupName": "/aws/lambda/chat-dev-index",
+    "logStreamName": "2020/10/26/[$LATEST]20b23d8ae54a4f20a893aad45522d7af",
+    "invokedFunctionArn": "arn:aws:lambda:ap-northeast-2:193277365573:function:chat-dev-index",
+    "awsRequestId": "aa78b875-4dac-4ec6-97d5-2ca106f1be0a"
+  }
+}

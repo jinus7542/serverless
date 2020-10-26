@@ -1,0 +1,36 @@
+{
+  "message": "$chat",
+  "event": {
+    "requestContext": {
+      "routeKey": "chat",
+      "messageId": "U_s6hdszoE0CIRQ=",
+      "eventType": "MESSAGE",
+      "extendedRequestId": "U_s6hHbrIE0FqGw=",
+      "requestTime": "26/Oct/2020:01:37:07 +0000",
+      "messageDirection": "IN",
+      "stage": "dev",
+      "connectedAt": 1603675883861,
+      "requestTimeEpoch": 1603676227282,
+      "identity": {
+        "cognitoIdentityPoolId": null,
+        "cognitoIdentityId": null,
+        "principalOrgId": null,
+        "cognitoAuthenticationType": null,
+        "userArn": null,
+        "userAgent": null,
+        "accountId": null,
+        "caller": null,
+        "sourceIp": "175.201.251.202",
+        "accessKey": null,
+        "cognitoAuthenticationProvider": null,
+        "user": null
+      },
+      "requestId": "U_s6hHbrIE0FqGw=",
+      "domainName": "2f3qdtqtt7.execute-api.ap-northeast-2.amazonaws.com",
+      "connectionId": "U_sE3dTGoE0CIRQ=",
+      "apiId": "2f3qdtqtt7"
+    },
+    "body": "{\"route\":\"index\",\"message\":\"hello world!\"}",
+    "isBase64Encoded": false
+  }
+}

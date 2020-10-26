@@ -1,0 +1,137 @@
+{
+  "resource": "/graphql",
+  "path": "/graphql",
+  "httpMethod": "POST",
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+    "CloudFront-Forwarded-Proto": "https",
+    "CloudFront-Is-Desktop-Viewer": "true",
+    "CloudFront-Is-Mobile-Viewer": "false",
+    "CloudFront-Is-SmartTV-Viewer": "false",
+    "CloudFront-Is-Tablet-Viewer": "false",
+    "CloudFront-Viewer-Country": "KR",
+    "content-type": "application/json",
+    "Host": "uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com",
+    "origin": "https://uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com",
+    "Referer": "https://uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com/dev/graphql",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36",
+    "Via": "2.0 c5763780684ccad0bd3aa0aba22ea7b3.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "rqd7PX4GtMFxAEE3yq_6ncMmMMFhF9PtjvPsgEwaRQyN3uVJqqCXoQ==",
+    "X-Amzn-Trace-Id": "Root=1-5f8fddad-3b22e23d5c5b11c02cc4e886",
+    "X-Forwarded-For": "175.201.251.202, 130.176.126.98",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "Accept": [
+      "*/*"
+    ],
+    "Accept-Encoding": [
+      "gzip, deflate, br"
+    ],
+    "Accept-Language": [
+      "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7"
+    ],
+    "CloudFront-Forwarded-Proto": [
+      "https"
+    ],
+    "CloudFront-Is-Desktop-Viewer": [
+      "true"
+    ],
+    "CloudFront-Is-Mobile-Viewer": [
+      "false"
+    ],
+    "CloudFront-Is-SmartTV-Viewer": [
+      "false"
+    ],
+    "CloudFront-Is-Tablet-Viewer": [
+      "false"
+    ],
+    "CloudFront-Viewer-Country": [
+      "KR"
+    ],
+    "content-type": [
+      "application/json"
+    ],
+    "Host": [
+      "uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com"
+    ],
+    "origin": [
+      "https://uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com"
+    ],
+    "Referer": [
+      "https://uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com/dev/graphql"
+    ],
+    "sec-fetch-dest": [
+      "empty"
+    ],
+    "sec-fetch-mode": [
+      "cors"
+    ],
+    "sec-fetch-site": [
+      "same-origin"
+    ],
+    "User-Agent": [
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36"
+    ],
+    "Via": [
+      "2.0 c5763780684ccad0bd3aa0aba22ea7b3.cloudfront.net (CloudFront)"
+    ],
+    "X-Amz-Cf-Id": [
+      "rqd7PX4GtMFxAEE3yq_6ncMmMMFhF9PtjvPsgEwaRQyN3uVJqqCXoQ=="
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-5f8fddad-3b22e23d5c5b11c02cc4e886"
+    ],
+    "X-Forwarded-For": [
+      "175.201.251.202, 130.176.126.98"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "queryStringParameters": null,
+  "multiValueQueryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "ivhnyu",
+    "resourcePath": "/graphql",
+    "httpMethod": "POST",
+    "extendedRequestId": "Uv-TLFczoE0Fgjg=",
+    "requestTime": "21/Oct/2020:07:05:17 +0000",
+    "path": "/dev/graphql",
+    "accountId": "193277365573",
+    "protocol": "HTTP/1.1",
+    "stage": "dev",
+    "domainPrefix": "uz8fmvm230",
+    "requestTimeEpoch": 1603263917832,
+    "requestId": "878e4aca-ce4b-45f9-aa33-b33e59a3a100",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "175.201.251.202",
+      "principalOrgId": null,
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36",
+      "user": null
+    },
+    "domainName": "uz8fmvm230.execute-api.ap-northeast-2.amazonaws.com",
+    "apiId": "uz8fmvm230"
+  },
+  "body": "{\\\"operationName\\\":null,\\\"variables\\\":{},\\\"query\\\":\\\"{\\\\n  hello\\\\n}\\\\n\\\"}",
+  "isBase64Encoded": false
+}
