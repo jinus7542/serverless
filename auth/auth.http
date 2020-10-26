@@ -1,0 +1,12 @@
+### api address
+@api = https://f1a4wkvx44.execute-api.ap-northeast-2.amazonaws.com
+
+### dev, stage, prod
+@stage = dev
+
+### test
+POST {{api}}/{{stage}}/index HTTP/1.1
+Content-Type: application/json
+
+{
+}

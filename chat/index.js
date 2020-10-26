@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 async function main(event, context) {
   const body = JSON.parse(event.body);

@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 async function main(event, context) {
   console.log("$connect handler", JSON.stringify(event, null, 2));
